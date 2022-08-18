@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bwealthy72
+- 👋 Hi, I’m VueLogger
 - 👀 I’m interested in making blog
 - 🌱 I’m currently learning NuxtJS
 
